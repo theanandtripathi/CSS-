@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Anuphan:wght@300;400;500&display=swap');
+
+body{
+    font-family: 'Anuphan', sans-serif;
+}
+ul{
+    text-transform: capitalize;
+    list-style-type: none;
+}
+/* ############################           utility calsses */
+.alignCenter{
+     text-align: center;
+}
+
+.backgroundColor{
+  background-color: rgb(251, 220, 220);
+}
